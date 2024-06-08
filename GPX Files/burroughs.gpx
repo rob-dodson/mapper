@@ -1,0 +1,1004 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://www.delorme.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>BURROUGHS.GPX</name>
+    <desc>BURROUGHS.GPX</desc>
+    <trkseg>
+      <trkpt lat="46.914582" lon="-121.640864">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.001Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914636" lon="-121.641680">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.002Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913966" lon="-121.641896">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.003Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913015" lon="-121.642097">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.004Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912600" lon="-121.642667">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.005Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912541" lon="-121.643696">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.006Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912630" lon="-121.644224">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.007Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912899" lon="-121.645270">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.008Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913217" lon="-121.646026">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.009Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913505" lon="-121.647041">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.01Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913773" lon="-121.647752">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.011Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913792" lon="-121.648631">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.012Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914174" lon="-121.649424">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.013Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914567" lon="-121.650018">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.014Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914765" lon="-121.650862">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.015Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914573" lon="-121.651481">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.016Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914371" lon="-121.652426">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.017Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913988" lon="-121.653321">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.018Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913249" lon="-121.653680">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.019Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912897" lon="-121.654465">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.02Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912815" lon="-121.655543">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.021Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912037" lon="-121.655596">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.022Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911324" lon="-121.655481">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.023Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910588" lon="-121.655243">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.024Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909762" lon="-121.655602">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.025Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909830" lon="-121.656407">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.026Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910144" lon="-121.657080">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.027Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910561" lon="-121.657923">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.028Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910718" lon="-121.658747">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.029Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910614" lon="-121.659676">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.03Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910589" lon="-121.660489">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.031Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910488" lon="-121.661373">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.032Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909768" lon="-121.661403">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.033Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909189" lon="-121.660892">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.034Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908847" lon="-121.660239">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.035Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908554" lon="-121.660740">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.036Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908394" lon="-121.661523">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.037Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908380" lon="-121.662306">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.038Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908468" lon="-121.663041">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.039Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908493" lon="-121.664005">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.04Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908543" lon="-121.664824">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.041Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908484" lon="-121.665689">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.042Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907874" lon="-121.666284">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.043Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907762" lon="-121.667246">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.044Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907765" lon="-121.668054">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.045Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907877" lon="-121.668789">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.046Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908165" lon="-121.669638">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.047Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908460" lon="-121.670313">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.048Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908738" lon="-121.671146">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.049Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908640" lon="-121.671973">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.05Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908920" lon="-121.672778">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.051Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909511" lon="-121.673188">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.052Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910040" lon="-121.673758">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.053Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910192" lon="-121.674499">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.054Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910143" lon="-121.675346">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.055Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910044" lon="-121.676243">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.056Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910109" lon="-121.677258">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.057Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910275" lon="-121.678327">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.058Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910526" lon="-121.679429">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.059Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910766" lon="-121.680189">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.06Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910630" lon="-121.681042">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.061Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910543" lon="-121.681921">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.062Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910413" lon="-121.682779">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.063Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910099" lon="-121.683766">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.064Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909720" lon="-121.684661">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.065Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909283" lon="-121.685349">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.066Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908897" lon="-121.686059">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.067Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908552" lon="-121.686848">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.068Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908177" lon="-121.687513">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.069Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907781" lon="-121.688114">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.07Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907197" lon="-121.688879">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.071Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906428" lon="-121.689329">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.072Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906305" lon="-121.690023">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.073Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907080" lon="-121.690346">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.074Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907246" lon="-121.691001">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.075Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906827" lon="-121.691604">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.076Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906272" lon="-121.692381">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.077Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905797" lon="-121.693130">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.078Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905370" lon="-121.693954">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.079Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904956" lon="-121.694820">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.08Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904900" lon="-121.695485">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.081Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904822" lon="-121.696498">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.082Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904815" lon="-121.697320">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.083Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904793" lon="-121.698290">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.084Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904808" lon="-121.699052">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.085Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904699" lon="-121.699968">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.086Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904511" lon="-121.700801">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.087Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904449" lon="-121.701524">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.088Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904283" lon="-121.702452">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.089Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904221" lon="-121.703152">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.09Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904280" lon="-121.703834">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.091Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904191" lon="-121.704738">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.092Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.903815" lon="-121.705521">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.093Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.903277" lon="-121.706056">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.094Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902808" lon="-121.706654">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.095Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902651" lon="-121.707685">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.096Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902485" lon="-121.708137">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.097Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901960" lon="-121.708887">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.098Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901529" lon="-121.709594">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.099Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901155" lon="-121.710340">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.1Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.900957" lon="-121.711259">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.101Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901118" lon="-121.712237">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.102Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.900994" lon="-121.713027">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.103Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901099" lon="-121.712314">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.104Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.900997" lon="-121.711714">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.105Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901047" lon="-121.710842">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.106Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901237" lon="-121.710023">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.107Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901661" lon="-121.709317">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.108Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902102" lon="-121.708692">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.109Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902531" lon="-121.708072">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.11Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902702" lon="-121.707230">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.111Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902965" lon="-121.706415">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.112Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.903640" lon="-121.705614">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.113Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904130" lon="-121.705142">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.114Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904194" lon="-121.704414">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.115Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904228" lon="-121.703457">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.116Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904267" lon="-121.702503">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.117Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904438" lon="-121.701779">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.118Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904500" lon="-121.700968">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.119Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904673" lon="-121.700093">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.12Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904804" lon="-121.699258">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.121Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904809" lon="-121.698520">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.122Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904804" lon="-121.697683">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.123Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904812" lon="-121.696784">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.124Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904828" lon="-121.695994">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.125Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904921" lon="-121.695322">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.126Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905172" lon="-121.694389">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.127Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905482" lon="-121.693739">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.128Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905972" lon="-121.692870">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.129Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906543" lon="-121.692030">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.13Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907003" lon="-121.691402">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.131Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907578" lon="-121.690594">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.132Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906905" lon="-121.690322">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.133Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906225" lon="-121.689856">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.134Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906684" lon="-121.689224">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.135Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907259" lon="-121.688860">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.136Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907739" lon="-121.688213">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.137Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908209" lon="-121.687479">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.138Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908651" lon="-121.686632">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.139Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908985" lon="-121.685934">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.14Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909383" lon="-121.685238">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.141Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909784" lon="-121.684589">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.142Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910072" lon="-121.683850">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.143Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910364" lon="-121.682928">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.144Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910543" lon="-121.682294">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.145Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910598" lon="-121.681452">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.146Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910693" lon="-121.680538">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.147Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910907" lon="-121.679647">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.148Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911207" lon="-121.679009">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.149Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911543" lon="-121.678012">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.15Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911864" lon="-121.677263">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.151Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912468" lon="-121.676688">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.152Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912992" lon="-121.675896">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.153Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913319" lon="-121.675341">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.154Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913796" lon="-121.674701">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.155Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914245" lon="-121.674008">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.156Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914489" lon="-121.673236">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.157Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914744" lon="-121.672492">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.158Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.915080" lon="-121.671754">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.159Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.915621" lon="-121.671059">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.16Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.916380" lon="-121.670712">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.161Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.916728" lon="-121.669928">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.162Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917187" lon="-121.669255">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.163Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917576" lon="-121.668424">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.164Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917676" lon="-121.667537">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.165Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918222" lon="-121.666713">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.166Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918388" lon="-121.665937">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.167Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918328" lon="-121.665277">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.168Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918897" lon="-121.664952">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.169Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919114" lon="-121.664389">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.17Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919185" lon="-121.663669">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.171Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919128" lon="-121.662905">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.172Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919170" lon="-121.661916">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.173Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919271" lon="-121.661142">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.174Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919434" lon="-121.660332">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.175Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919428" lon="-121.659386">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.176Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919331" lon="-121.658321">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.177Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919182" lon="-121.657382">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.178Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919160" lon="-121.656511">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.179Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919188" lon="-121.655645">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.18Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919154" lon="-121.654732">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.181Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919146" lon="-121.653612">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.182Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918880" lon="-121.653158">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.183Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918682" lon="-121.652029">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.184Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918656" lon="-121.651281">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.185Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918737" lon="-121.650330">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.186Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918787" lon="-121.649389">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.187Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918763" lon="-121.648628">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.188Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918625" lon="-121.647664">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.189Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918514" lon="-121.646919">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.19Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918139" lon="-121.646188">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.191Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917739" lon="-121.645430">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.192Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917502" lon="-121.644816">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.193Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917234" lon="-121.643967">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.194Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.916522" lon="-121.643683">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.195Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.915647" lon="-121.643497">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.196Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914997" lon="-121.642640">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.197Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914673" lon="-121.641747">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.198Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914604" lon="-121.641147">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.199Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

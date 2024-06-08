@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-gpx-framework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/isklikas/iOS-GPX-Framework.git",
+      "state" : {
+        "revision" : "e89d1b3691cf48fda80734aba7fb27709b95e4b4",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}

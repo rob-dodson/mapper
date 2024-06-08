@@ -1,0 +1,3628 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://www.delorme.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Reflection Lakes - 9</name>
+    <desc>Reflection Lakes - 9</desc>
+    <trkseg>
+      <trkpt lat="46.768875" lon="-121.731758">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4306071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768996" lon="-121.732274">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4316071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.769559" lon="-121.732738">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4326071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.769971" lon="-121.733438">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4336071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.770362" lon="-121.733787">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4346071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.770745" lon="-121.734195">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4356071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.771043" lon="-121.734796">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4366071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.771187" lon="-121.735530">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4376071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.771681" lon="-121.735760">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4386071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.772341" lon="-121.736191">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4396071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.772784" lon="-121.736777">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4406071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.773280" lon="-121.737209">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4416071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.773878" lon="-121.737120">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4426071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774396" lon="-121.736849">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4436071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774922" lon="-121.736407">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4446071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774975" lon="-121.735728">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4456071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775057" lon="-121.735104">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4466071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774889" lon="-121.734478">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4476071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775195" lon="-121.733961">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4486071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775401" lon="-121.733267">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4496071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775379" lon="-121.732364">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4506071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775743" lon="-121.731987">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4516071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776045" lon="-121.731367">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4526071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776509" lon="-121.730885">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4536071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776883" lon="-121.730312">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4546071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777211" lon="-121.729813">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4556071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777695" lon="-121.729195">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4566071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777934" lon="-121.728747">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4576071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.778046" lon="-121.728011">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4586071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777729" lon="-121.727283">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4596071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777552" lon="-121.726701">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4606071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777064" lon="-121.726181">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4616071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776874" lon="-121.725527">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4626071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776416" lon="-121.725000">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4636071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775888" lon="-121.724635">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4646071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775609" lon="-121.724075">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4656071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775866" lon="-121.723356">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4666071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776214" lon="-121.722784">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4676071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776043" lon="-121.722311">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4686071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775840" lon="-121.721893">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4696071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775400" lon="-121.721198">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4706071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775505" lon="-121.720567">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4716071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775850" lon="-121.720126">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4726071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776495" lon="-121.720359">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4736071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776436" lon="-121.720990">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4746071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776915" lon="-121.721604">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4756071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777491" lon="-121.721788">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4766071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.778075" lon="-121.721653">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4776071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.778564" lon="-121.721488">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4786071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.779171" lon="-121.720872">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4796071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.779209" lon="-121.720135">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4806071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.779603" lon="-121.719480">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4816071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.779997" lon="-121.719089">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4826071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.780688" lon="-121.719360">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4836071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.781337" lon="-121.719544">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4846071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.782055" lon="-121.719677">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4856071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.782520" lon="-121.719812">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4866071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.783268" lon="-121.719769">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4876071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.783753" lon="-121.719997">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4886071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.784384" lon="-121.720119">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4896071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.784995" lon="-121.720113">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4906071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.785566" lon="-121.719792">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4916071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.786275" lon="-121.719767">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4926071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.786667" lon="-121.719392">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4936071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.787350" lon="-121.719326">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4946071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.787845" lon="-121.719596">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4956071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.788516" lon="-121.720027">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4966071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789346" lon="-121.720205">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4976071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789776" lon="-121.719811">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4986071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.790149" lon="-121.719321">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.4996071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789889" lon="-121.718638">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5006071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789844" lon="-121.717715">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5016071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.790331" lon="-121.717194">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5026071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.790784" lon="-121.717058">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5036071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.791333" lon="-121.717006">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5046071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.792099" lon="-121.716995">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5056071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.792730" lon="-121.716856">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5066071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.793246" lon="-121.716408">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5076071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.793849" lon="-121.716155">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5086071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794534" lon="-121.715840">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5096071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795095" lon="-121.715993">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5106071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795268" lon="-121.716479">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5116071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794962" lon="-121.717123">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5126071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794404" lon="-121.717587">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5136071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794605" lon="-121.718095">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5146071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794958" lon="-121.718802">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5156071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795472" lon="-121.719246">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5166071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795948" lon="-121.719403">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5176071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.796458" lon="-121.719996">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5186071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.796717" lon="-121.720520">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5196071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.796895" lon="-121.721330">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5206071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.797410" lon="-121.721860">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5216071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.797846" lon="-121.722156">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5226071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.798298" lon="-121.722633">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5236071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.798884" lon="-121.722738">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5246071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.799265" lon="-121.722908">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5256071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.799658" lon="-121.723359">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5266071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.800251" lon="-121.723828">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5276071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.800765" lon="-121.723544">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5286071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.801002" lon="-121.722910">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5296071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.801220" lon="-121.722289">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5306071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.801865" lon="-121.722272">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5316071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.802045" lon="-121.721678">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5326071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.802610" lon="-121.721457">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5336071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.803154" lon="-121.721725">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5346071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.803353" lon="-121.722415">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5356071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.803555" lon="-121.722913">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5366071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.804128" lon="-121.723286">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5376071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.803705" lon="-121.723090">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5386071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.803355" lon="-121.722701">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5396071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.803247" lon="-121.721941">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5406071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.802718" lon="-121.721556">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5416071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.802077" lon="-121.721447">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5426071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.801847" lon="-121.722281">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5436071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.801239" lon="-121.722665">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5446071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.800890" lon="-121.723177">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5456071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.800314" lon="-121.723813">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5466071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.799796" lon="-121.723705">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5476071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.799336" lon="-121.722964">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5486071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.798586" lon="-121.722714">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5496071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.798084" lon="-121.722357">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5506071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.797513" lon="-121.722004">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5516071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.797150" lon="-121.721488">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5526071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.796721" lon="-121.720870">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5536071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.796476" lon="-121.720040">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5546071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.796097" lon="-121.719603">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5556071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795406" lon="-121.719219">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5566071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794916" lon="-121.718774">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5576071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794570" lon="-121.718058">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5586071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794559" lon="-121.717470">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5596071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795140" lon="-121.716995">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5606071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795304" lon="-121.716691">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5616071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.795006" lon="-121.715756">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5626071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.794501" lon="-121.715822">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5636071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.793867" lon="-121.716089">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5646071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.793210" lon="-121.716388">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5656071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.792556" lon="-121.716838">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5666071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.791874" lon="-121.716900">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5676071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.791291" lon="-121.716992">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5686071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.790526" lon="-121.717105">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5696071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.790030" lon="-121.717365">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5706071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789817" lon="-121.718133">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5716071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789919" lon="-121.718812">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5726071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789979" lon="-121.719496">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5736071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.789437" lon="-121.720185">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5746071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.788829" lon="-121.720085">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5756071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.788084" lon="-121.719951">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5766071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.787673" lon="-121.719405">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5776071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.787070" lon="-121.719315">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5786071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.786557" lon="-121.719431">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5796071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.785824" lon="-121.719734">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5806071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.785248" lon="-121.719904">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5816071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.784663" lon="-121.720204">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5826071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.783884" lon="-121.720122">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5836071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.783406" lon="-121.719740">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5846071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.782781" lon="-121.719794">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5856071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.782263" lon="-121.719633">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5866071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.781650" lon="-121.719629">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5876071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.781004" lon="-121.719398">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5886071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.780486" lon="-121.719272">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5896071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.779666" lon="-121.719319">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5906071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.779211" lon="-121.719824">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5916071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.779144" lon="-121.720515">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5926071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.778997" lon="-121.721243">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5936071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.778449" lon="-121.721593">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5946071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777810" lon="-121.721628">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5956071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.777053" lon="-121.721699">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5966071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776542" lon="-121.721164">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5976071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.776369" lon="-121.720581">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5986071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775969" lon="-121.720072">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.5996071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.775430" lon="-121.719777">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6006071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774757" lon="-121.719294">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6016071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774059" lon="-121.718948">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6026071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774285" lon="-121.719483">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6036071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774295" lon="-121.719858">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6046071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.774138" lon="-121.720479">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6056071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.773966" lon="-121.721156">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6066071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.773806" lon="-121.721793">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6076071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.773813" lon="-121.722477">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6086071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.773437" lon="-121.722946">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6096071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.772969" lon="-121.723488">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6106071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.772344" lon="-121.723286">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6116071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.771782" lon="-121.723647">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6126071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.771106" lon="-121.723575">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6136071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.770535" lon="-121.723298">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6146071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.770014" lon="-121.723287">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6156071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.769343" lon="-121.723603">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6166071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.769064" lon="-121.724461">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6176071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.769120" lon="-121.725073">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6186071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.769038" lon="-121.726034">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6196071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768762" lon="-121.726789">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6206071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768612" lon="-121.727199">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6216071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768409" lon="-121.727712">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6226071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768288" lon="-121.728534">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6236071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768141" lon="-121.729346">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6246071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768143" lon="-121.729905">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6256071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768288" lon="-121.730666">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6266071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768650" lon="-121.731587">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6276071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+      <trkpt lat="46.768708" lon="-121.731868">
+        <ele>0</ele>
+        <time>2023-09-03T02:41:57.6286071Z</time>
+        <desc>Reflection Lakes - 9</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Mt Kit Carson - 2022</name>
+    <desc>Mt Kit Carson - 2022</desc>
+    <trkseg>
+      <trkpt lat="47.903892" lon="-117.124468">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8693621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.904182" lon="-117.124561">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8703621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.904733" lon="-117.124742">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8713621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.905259" lon="-117.124523">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8723621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.905629" lon="-117.124272">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8733621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906066" lon="-117.123880">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8743621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906165" lon="-117.124275">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8753621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906136" lon="-117.124904">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8763621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906084" lon="-117.125118">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8773621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906054" lon="-117.125743">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8783621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906119" lon="-117.126296">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8793621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906447" lon="-117.126840">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8803621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906781" lon="-117.127005">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8813621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.907239" lon="-117.127487">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8823621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.907673" lon="-117.127798">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8833621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.907881" lon="-117.128026">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8843621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908156" lon="-117.128425">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8853621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908469" lon="-117.128597">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8863621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909053" lon="-117.128361">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8873621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909462" lon="-117.128175">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8883621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909935" lon="-117.128276">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8893621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910080" lon="-117.127720">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8903621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909980" lon="-117.127246">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8913621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909672" lon="-117.126777">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8923621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909157" lon="-117.126567">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8933621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908795" lon="-117.126387">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8943621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908568" lon="-117.125985">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8953621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908428" lon="-117.125399">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8963621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908660" lon="-117.125445">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8973621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908944" lon="-117.125812">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8983621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909524" lon="-117.125751">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.8993621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910000" lon="-117.125500">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9003621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910387" lon="-117.125695">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9013621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910914" lon="-117.125917">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9023621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.911310" lon="-117.126419">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9033621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.911532" lon="-117.126943">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9043621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.911729" lon="-117.127368">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9053621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912140" lon="-117.127648">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9063621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912589" lon="-117.128123">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9073621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912405" lon="-117.128381">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9083621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912395" lon="-117.129078">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9093621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912407" lon="-117.129694">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9103621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912569" lon="-117.130160">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9113621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913036" lon="-117.130587">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9123621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913339" lon="-117.130751">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9133621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913578" lon="-117.130562">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9143621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913411" lon="-117.130079">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9153621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913339" lon="-117.129584">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9163621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913552" lon="-117.129097">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9173621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914055" lon="-117.128807">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9183621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914289" lon="-117.128559">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9193621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914483" lon="-117.128806">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9203621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914523" lon="-117.129371">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9213621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914672" lon="-117.129917">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9223621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914900" lon="-117.130263">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9233621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915080" lon="-117.130682">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9243621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915443" lon="-117.130643">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9253621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915387" lon="-117.129994">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9263621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915455" lon="-117.129459">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9273621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915530" lon="-117.128850">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9283621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915773" lon="-117.129000">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9293621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915982" lon="-117.129552">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9303621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916120" lon="-117.129886">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9313621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916349" lon="-117.130327">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9323621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916583" lon="-117.130748">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9333621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916874" lon="-117.131357">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9343621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917028" lon="-117.131765">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9353621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917274" lon="-117.132282">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9363621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917654" lon="-117.132861">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9373621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918041" lon="-117.133427">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9383621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918309" lon="-117.133837">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9393621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918604" lon="-117.134223">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9403621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918659" lon="-117.134452">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9413621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918795" lon="-117.134922">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9423621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919063" lon="-117.135440">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9433621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919274" lon="-117.135899">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9443621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919040" lon="-117.136169">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9453621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918688" lon="-117.136110">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9463621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918213" lon="-117.136361">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9473621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918167" lon="-117.136668">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9483621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918109" lon="-117.137320">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9493621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918217" lon="-117.137897">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9503621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918530" lon="-117.138282">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9513621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918632" lon="-117.138564">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9523621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918759" lon="-117.138901">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9533621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918972" lon="-117.139523">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9543621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919133" lon="-117.140040">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9553621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919241" lon="-117.140573">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9563621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919184" lon="-117.140999">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9573621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919006" lon="-117.141443">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9583621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918696" lon="-117.141948">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9593621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918434" lon="-117.142386">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9603621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918153" lon="-117.142904">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9613621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917784" lon="-117.143288">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9623621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917466" lon="-117.143573">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9633621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916944" lon="-117.143643">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9643621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916388" lon="-117.143695">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9653621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916111" lon="-117.144024">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9663621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916311" lon="-117.143808">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9673621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916799" lon="-117.143623">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9683621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917272" lon="-117.143809">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9693621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917691" lon="-117.143538">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9703621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918067" lon="-117.143233">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9713621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918369" lon="-117.142705">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9723621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918666" lon="-117.142308">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9733621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918809" lon="-117.141889">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9743621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919111" lon="-117.141387">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9753621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919262" lon="-117.140857">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9763621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919217" lon="-117.140431">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9773621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919162" lon="-117.139920">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9783621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919038" lon="-117.139442">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9793621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918844" lon="-117.139033">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9803621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918715" lon="-117.138597">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9813621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918382" lon="-117.138099">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9823621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918211" lon="-117.137820">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9833621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918122" lon="-117.137292">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9843621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918147" lon="-117.136892">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9853621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918311" lon="-117.136319">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9863621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918654" lon="-117.136253">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9873621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919050" lon="-117.136271">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9883621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919391" lon="-117.136140">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9893621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.919134" lon="-117.135610">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9903621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918887" lon="-117.135136">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9913621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918737" lon="-117.134681">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9923621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918655" lon="-117.134087">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9933621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918382" lon="-117.133865">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9943621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.918093" lon="-117.133527">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9953621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917767" lon="-117.132982">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9963621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917381" lon="-117.132465">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9973621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.917157" lon="-117.132076">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9983621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916940" lon="-117.131539">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:35.9993621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916728" lon="-117.131039">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0003621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916550" lon="-117.130609">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0013621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916281" lon="-117.130213">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0023621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.916032" lon="-117.129710">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0033621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915885" lon="-117.129379">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0043621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915758" lon="-117.128858">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0053621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915477" lon="-117.128981">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0063621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915387" lon="-117.129659">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0073621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915344" lon="-117.130199">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0083621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.915342" lon="-117.130652">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0093621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914993" lon="-117.130465">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0103621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914873" lon="-117.130212">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0113621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914587" lon="-117.129677">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0123621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914570" lon="-117.129309">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0133621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914612" lon="-117.128713">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0143621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.914323" lon="-117.128601">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0153621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913792" lon="-117.128926">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0163621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913504" lon="-117.129137">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0173621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913350" lon="-117.129633">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0183621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913391" lon="-117.130157">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0193621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913479" lon="-117.130477">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0203621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913483" lon="-117.131033">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0213621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.913237" lon="-117.130739">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0223621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912804" lon="-117.130601">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0233621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912510" lon="-117.130049">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0243621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912424" lon="-117.129541">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0253621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912456" lon="-117.129007">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0263621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912546" lon="-117.128507">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0273621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912592" lon="-117.128083">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0283621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.912242" lon="-117.127733">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0293621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.911718" lon="-117.127352">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0303621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.911553" lon="-117.126953">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0313621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.911346" lon="-117.126478">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0323621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910967" lon="-117.125929">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0333621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910612" lon="-117.125712">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0343621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910140" lon="-117.125437">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0353621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909608" lon="-117.125668">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0363621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909321" lon="-117.125873">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0373621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908923" lon="-117.125757">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0383621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908583" lon="-117.125343">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0393621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908424" lon="-117.125592">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0403621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908474" lon="-117.125892">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0413621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908750" lon="-117.126437">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0423621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909202" lon="-117.126785">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0433621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909648" lon="-117.126947">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0443621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909906" lon="-117.127250">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0453621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910082" lon="-117.127818">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0463621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.910057" lon="-117.128078">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0473621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909655" lon="-117.128398">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0483621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.909169" lon="-117.128361">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0493621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908667" lon="-117.128534">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0503621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908336" lon="-117.128721">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0513621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.908023" lon="-117.128304">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0523621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.907838" lon="-117.128013">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0533621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.907402" lon="-117.127678">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0543621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.907114" lon="-117.127349">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0553621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906739" lon="-117.126993">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0563621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906280" lon="-117.126711">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0573621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906135" lon="-117.126257">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0583621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906101" lon="-117.125749">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0593621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906188" lon="-117.125170">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0603621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906189" lon="-117.124873">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0613621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906399" lon="-117.124167">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0623621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.906015" lon="-117.123903">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0633621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.905565" lon="-117.124307">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0643621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.905123" lon="-117.124615">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0653621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.904689" lon="-117.124819">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0663621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.904208" lon="-117.124760">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0673621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+      <trkpt lat="47.903872" lon="-117.124406">
+        <ele>0</ele>
+        <time>2023-09-03T02:43:36.0683621Z</time>
+        <desc>Mt Kit Carson - 2022</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>BURROUGHS.GPX</name>
+    <desc>BURROUGHS.GPX</desc>
+    <trkseg>
+      <trkpt lat="46.914582" lon="-121.640864">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.001Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914636" lon="-121.641680">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.002Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913966" lon="-121.641896">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.003Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913015" lon="-121.642097">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.004Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912600" lon="-121.642667">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.005Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912541" lon="-121.643696">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.006Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912630" lon="-121.644224">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.007Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912899" lon="-121.645270">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.008Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913217" lon="-121.646026">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.009Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913505" lon="-121.647041">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.01Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913773" lon="-121.647752">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.011Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913792" lon="-121.648631">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.012Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914174" lon="-121.649424">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.013Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914567" lon="-121.650018">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.014Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914765" lon="-121.650862">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.015Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914573" lon="-121.651481">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.016Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914371" lon="-121.652426">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.017Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913988" lon="-121.653321">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.018Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913249" lon="-121.653680">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.019Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912897" lon="-121.654465">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.02Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912815" lon="-121.655543">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.021Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912037" lon="-121.655596">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.022Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911324" lon="-121.655481">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.023Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910588" lon="-121.655243">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.024Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909762" lon="-121.655602">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.025Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909830" lon="-121.656407">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.026Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910144" lon="-121.657080">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.027Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910561" lon="-121.657923">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.028Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910718" lon="-121.658747">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.029Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910614" lon="-121.659676">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.03Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910589" lon="-121.660489">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.031Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910488" lon="-121.661373">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.032Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909768" lon="-121.661403">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.033Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909189" lon="-121.660892">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.034Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908847" lon="-121.660239">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.035Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908554" lon="-121.660740">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.036Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908394" lon="-121.661523">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.037Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908380" lon="-121.662306">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.038Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908468" lon="-121.663041">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.039Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908493" lon="-121.664005">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.04Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908543" lon="-121.664824">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.041Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908484" lon="-121.665689">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.042Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907874" lon="-121.666284">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.043Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907762" lon="-121.667246">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.044Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907765" lon="-121.668054">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.045Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907877" lon="-121.668789">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.046Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908165" lon="-121.669638">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.047Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908460" lon="-121.670313">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.048Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908738" lon="-121.671146">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.049Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908640" lon="-121.671973">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.05Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908920" lon="-121.672778">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.051Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909511" lon="-121.673188">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.052Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910040" lon="-121.673758">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.053Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910192" lon="-121.674499">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.054Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910143" lon="-121.675346">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.055Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910044" lon="-121.676243">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.056Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910109" lon="-121.677258">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.057Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910275" lon="-121.678327">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.058Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910526" lon="-121.679429">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.059Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910766" lon="-121.680189">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.06Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910630" lon="-121.681042">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.061Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910543" lon="-121.681921">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.062Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910413" lon="-121.682779">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.063Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910099" lon="-121.683766">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.064Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909720" lon="-121.684661">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.065Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909283" lon="-121.685349">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.066Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908897" lon="-121.686059">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.067Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908552" lon="-121.686848">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.068Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908177" lon="-121.687513">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.069Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907781" lon="-121.688114">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.07Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907197" lon="-121.688879">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.071Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906428" lon="-121.689329">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.072Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906305" lon="-121.690023">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.073Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907080" lon="-121.690346">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.074Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907246" lon="-121.691001">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.075Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906827" lon="-121.691604">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.076Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906272" lon="-121.692381">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.077Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905797" lon="-121.693130">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.078Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905370" lon="-121.693954">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.079Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904956" lon="-121.694820">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.08Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904900" lon="-121.695485">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.081Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904822" lon="-121.696498">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.082Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904815" lon="-121.697320">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.083Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904793" lon="-121.698290">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.084Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904808" lon="-121.699052">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.085Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904699" lon="-121.699968">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.086Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904511" lon="-121.700801">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.087Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904449" lon="-121.701524">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.088Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904283" lon="-121.702452">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.089Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904221" lon="-121.703152">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.09Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904280" lon="-121.703834">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.091Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904191" lon="-121.704738">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.092Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.903815" lon="-121.705521">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.093Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.903277" lon="-121.706056">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.094Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902808" lon="-121.706654">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.095Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902651" lon="-121.707685">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.096Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902485" lon="-121.708137">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.097Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901960" lon="-121.708887">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.098Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901529" lon="-121.709594">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.099Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901155" lon="-121.710340">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.1Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.900957" lon="-121.711259">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.101Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901118" lon="-121.712237">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.102Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.900994" lon="-121.713027">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.103Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901099" lon="-121.712314">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.104Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.900997" lon="-121.711714">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.105Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901047" lon="-121.710842">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.106Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901237" lon="-121.710023">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.107Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.901661" lon="-121.709317">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.108Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902102" lon="-121.708692">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.109Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902531" lon="-121.708072">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.11Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902702" lon="-121.707230">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.111Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.902965" lon="-121.706415">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.112Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.903640" lon="-121.705614">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.113Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904130" lon="-121.705142">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.114Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904194" lon="-121.704414">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.115Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904228" lon="-121.703457">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.116Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904267" lon="-121.702503">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.117Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904438" lon="-121.701779">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.118Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904500" lon="-121.700968">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.119Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904673" lon="-121.700093">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.12Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904804" lon="-121.699258">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.121Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904809" lon="-121.698520">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.122Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904804" lon="-121.697683">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.123Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904812" lon="-121.696784">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.124Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904828" lon="-121.695994">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.125Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.904921" lon="-121.695322">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.126Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905172" lon="-121.694389">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.127Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905482" lon="-121.693739">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.128Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.905972" lon="-121.692870">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.129Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906543" lon="-121.692030">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.13Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907003" lon="-121.691402">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.131Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907578" lon="-121.690594">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.132Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906905" lon="-121.690322">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.133Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906225" lon="-121.689856">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.134Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.906684" lon="-121.689224">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.135Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907259" lon="-121.688860">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.136Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.907739" lon="-121.688213">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.137Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908209" lon="-121.687479">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.138Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908651" lon="-121.686632">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.139Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.908985" lon="-121.685934">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.14Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909383" lon="-121.685238">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.141Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.909784" lon="-121.684589">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.142Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910072" lon="-121.683850">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.143Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910364" lon="-121.682928">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.144Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910543" lon="-121.682294">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.145Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910598" lon="-121.681452">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.146Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910693" lon="-121.680538">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.147Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.910907" lon="-121.679647">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.148Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911207" lon="-121.679009">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.149Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911543" lon="-121.678012">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.15Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.911864" lon="-121.677263">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.151Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912468" lon="-121.676688">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.152Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.912992" lon="-121.675896">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.153Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913319" lon="-121.675341">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.154Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.913796" lon="-121.674701">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.155Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914245" lon="-121.674008">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.156Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914489" lon="-121.673236">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.157Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914744" lon="-121.672492">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.158Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.915080" lon="-121.671754">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.159Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.915621" lon="-121.671059">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.16Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.916380" lon="-121.670712">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.161Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.916728" lon="-121.669928">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.162Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917187" lon="-121.669255">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.163Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917576" lon="-121.668424">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.164Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917676" lon="-121.667537">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.165Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918222" lon="-121.666713">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.166Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918388" lon="-121.665937">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.167Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918328" lon="-121.665277">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.168Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918897" lon="-121.664952">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.169Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919114" lon="-121.664389">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.17Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919185" lon="-121.663669">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.171Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919128" lon="-121.662905">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.172Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919170" lon="-121.661916">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.173Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919271" lon="-121.661142">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.174Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919434" lon="-121.660332">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.175Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919428" lon="-121.659386">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.176Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919331" lon="-121.658321">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.177Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919182" lon="-121.657382">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.178Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919160" lon="-121.656511">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.179Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919188" lon="-121.655645">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.18Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919154" lon="-121.654732">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.181Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.919146" lon="-121.653612">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.182Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918880" lon="-121.653158">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.183Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918682" lon="-121.652029">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.184Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918656" lon="-121.651281">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.185Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918737" lon="-121.650330">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.186Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918787" lon="-121.649389">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.187Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918763" lon="-121.648628">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.188Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918625" lon="-121.647664">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.189Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918514" lon="-121.646919">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.19Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.918139" lon="-121.646188">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.191Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917739" lon="-121.645430">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.192Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917502" lon="-121.644816">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.193Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.917234" lon="-121.643967">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.194Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.916522" lon="-121.643683">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.195Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.915647" lon="-121.643497">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.196Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914997" lon="-121.642640">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.197Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914673" lon="-121.641747">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.198Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+      <trkpt lat="46.914604" lon="-121.641147">
+        <ele>0</ele>
+        <time>2023-09-05T22:57:44.199Z</time>
+        <desc>BURROUGHS.GPX</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Pinnacle Peak Hike</name>
+    <desc>Pinnacle Peak Hike</desc>
+    <trkseg>
+      <trkpt lat="46.768381" lon="-121.731048">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.963Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.768269" lon="-121.731184">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.964Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.768175" lon="-121.731262">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.965Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.767998" lon="-121.731289">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.966Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.767911" lon="-121.731192">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.967Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.767646" lon="-121.730887">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.968Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.766970" lon="-121.730350">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.969Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.766650" lon="-121.730420">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.97Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.766393" lon="-121.730533">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.971Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.766118" lon="-121.730704">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.972Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765824" lon="-121.730565">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.973Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765530" lon="-121.730704">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.974Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765206" lon="-121.730962">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.975Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765221" lon="-121.731691">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.976Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765559" lon="-121.732233">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.977Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765747" lon="-121.732571">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.978Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.766279" lon="-121.732818">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.979Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.766293" lon="-121.733004">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.98Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.766087" lon="-121.733126">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.981Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765960" lon="-121.733102">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.982Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765809" lon="-121.732979">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.983Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765644" lon="-121.732909">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.984Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765438" lon="-121.733015">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.985Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765296" lon="-121.733100">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.986Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765259" lon="-121.733054">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.987Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765223" lon="-121.732939">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.988Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765149" lon="-121.733057">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.989Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.765063" lon="-121.732872">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.99Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.764879" lon="-121.732754">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.991Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.764771" lon="-121.732952">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.992Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.764310" lon="-121.733279">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.993Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.763531" lon="-121.733451">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.994Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.762660" lon="-121.733419">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.995Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.762539" lon="-121.733494">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.996Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.762471" lon="-121.733665">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.997Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.762412" lon="-121.733770">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.998Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.762314" lon="-121.734073">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:28.999Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.761932" lon="-121.734170">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.761624" lon="-121.734634">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.001Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.761425" lon="-121.734819">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.002Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.760962" lon="-121.735162">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.003Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.760404" lon="-121.735409">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.004Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.760336" lon="-121.735438">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.005Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.760299" lon="-121.735575">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.006Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.760157" lon="-121.735666">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.007Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.759477" lon="-121.735870">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.008Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.759240" lon="-121.735945">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.009Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.759036" lon="-121.736101">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.01Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.758856" lon="-121.736079">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.011Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.758298" lon="-121.735860">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.012Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.758004" lon="-121.735591">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.013Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.758430" lon="-121.735366">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.014Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.757816" lon="-121.735237">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.015Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.757666" lon="-121.735484">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.016Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+      <trkpt lat="46.757243" lon="-121.735634">
+        <ele>0</ele>
+        <time>2023-09-07T22:12:29.017Z</time>
+        <desc>Pinnacle Peak Hike</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Hidden Lake Hike</name>
+    <desc>Hidden Lake Hike</desc>
+    <trkseg>
+      <trkpt lat="46.914627" lon="-121.640947">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.305Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.914627" lon="-121.642374">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.306Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.914862" lon="-121.642481">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.307Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.915016" lon="-121.642631">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.308Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.915433" lon="-121.643028">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.309Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.915814" lon="-121.643726">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.31Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.916342" lon="-121.643651">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.311Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917155" lon="-121.643747">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.312Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917485" lon="-121.643146">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.313Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917646" lon="-121.642492">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.314Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917940" lon="-121.641483">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.315Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.918804" lon="-121.636569">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.316Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.918555" lon="-121.628115">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.317Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.918592" lon="-121.623598">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.318Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.918174" lon="-121.618481">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.319Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.918387" lon="-121.617279">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.32Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917749" lon="-121.615026">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.321Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917610" lon="-121.614157">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.322Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917529" lon="-121.612644">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.323Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917016" lon="-121.610928">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.324Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.916474" lon="-121.608632">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.325Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.916371" lon="-121.606121">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.326Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.916621" lon="-121.605349">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.327Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.915932" lon="-121.601400">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.328Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.915756" lon="-121.599319">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.329Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.915814" lon="-121.596293">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.33Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.916914" lon="-121.591015">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.331Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.917720" lon="-121.587431">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.332Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.918614" lon="-121.584921">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.333Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.918922" lon="-121.583612">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.334Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.919259" lon="-121.582603">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.335Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.919523" lon="-121.585114">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.336Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.919523" lon="-121.586101">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.337Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.920050" lon="-121.585178">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.338Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.922014" lon="-121.584921">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.339Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.922556" lon="-121.585028">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.34Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.923025" lon="-121.586080">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.341Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.923567" lon="-121.586766">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.342Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.923011" lon="-121.589878">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.343Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.923128" lon="-121.591101">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.344Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.924711" lon="-121.594019">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.345Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.927348" lon="-121.594448">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.346Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.927949" lon="-121.595414">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.347Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.928403" lon="-121.595564">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.348Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.929620" lon="-121.595349">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.349Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.930807" lon="-121.594770">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.35Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.931539" lon="-121.593826">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.351Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.932008" lon="-121.592925">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.352Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.932492" lon="-121.591551">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.353Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.933517" lon="-121.590092">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.354Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.933635" lon="-121.593161">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.355Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.934030" lon="-121.593933">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.356Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.934851" lon="-121.593354">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.357Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.935539" lon="-121.593440">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.358Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.936609" lon="-121.592817">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.359Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.936550" lon="-121.594169">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.36Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.937283" lon="-121.595306">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.361Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.938601" lon="-121.595564">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.362Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.939803" lon="-121.594706">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.363Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.940389" lon="-121.594534">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.364Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.941048" lon="-121.595435">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.365Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.941810" lon="-121.596680">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.366Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.941546" lon="-121.597388">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.367Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.940887" lon="-121.598160">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.368Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.940858" lon="-121.598675">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.369Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+      <trkpt lat="46.941531" lon="-121.598740">
+        <ele>0</ele>
+        <time>2023-09-10T17:12:28.37Z</time>
+        <desc>Hidden Lake Hike</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
